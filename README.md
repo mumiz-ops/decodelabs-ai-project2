@@ -1,4 +1,4 @@
-#  Project 2 — Data Classification Using AI (KNN)
+#  Data Classification Using AI (KNN)
 
 > **Industrial Training**
 
