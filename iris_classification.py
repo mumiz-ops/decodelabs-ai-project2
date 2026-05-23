@@ -2,7 +2,7 @@
 #  Project 2: Data Classification Using AI
 #  Algorithm : K-Nearest Neighbors (KNN)
 #  Dataset   : Iris Benchmark
-#  Author    : DecodeLabs Intern | Batch 2026
+#  Author    : Mumiz Ahmad | mumizahmad30@gmail.com
 # ============================================================
 
 # ---------- 1. IMPORTS ----------
