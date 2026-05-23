@@ -1,4 +1,4 @@
-# 🌸 Project 2 — Data Classification Using AI (KNN)
+#  Project 2 — Data Classification Using AI (KNN)
 
 > **DecodeLabs Industrial Training Kit | Batch 2026**
 
